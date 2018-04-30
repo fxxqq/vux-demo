@@ -1,6 +1,6 @@
 # jobs
 
-> A Vue.js project
+> A Vue.js project(仿拉勾移动端)
 
 ## Build Setup
 
