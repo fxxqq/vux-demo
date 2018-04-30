@@ -1,0 +1,11 @@
+.jobs-list{
+    .weui-panel__bd{
+        display: none;
+        p{
+            a{
+                display: inline-block;
+                min-width: 30%
+            }
+        }
+    }
+}

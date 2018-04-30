@@ -1,0 +1,58 @@
+#content{
+  padding-bottom: 60px;
+    .postitle {
+       height: 48px;
+       line-height: 48px;
+       padding: 0 15px;
+       border-bottom: 1px solid #e8e8e8;
+   }
+   .title{
+       color: #333;
+       font-size: .36rem;
+       max-width: 70%;
+       overflow: hidden;
+       text-overflow: ellipsis;
+       white-space: nowrap;
+       float: left;
+   }
+   .vux-card-content{
+     padding: 15px;
+   }
+   .card-padding{
+    word-break: break-all;
+    // padding:0 15px;
+    color: #555;
+    font-size: .24rem;
+    line-height: 22px;
+   }
+   .identification{
+     text-align: center;
+     font-size: .24rem;
+     line-height: 22px;
+     font-weight: 900
+   }
+   .card-demo-flex {
+    display: flex;
+  }
+  .card-demo-content01 {
+    padding: 10px 0;
+  }
+  .card-padding {
+    padding: 15px;
+  }
+  .card-demo-flex > div {
+    flex: 1;
+    text-align: left;
+    font-size: 12px;
+    text-indent: 15px;
+    white-space: nowrap;
+  }
+  .card-demo-flex span {
+    color: #f74c31;
+  }
+  .vux-divider{
+    font-size: .24rem;
+  }
+}
+
+
