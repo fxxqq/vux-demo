@@ -44,6 +44,7 @@ export default {
 }
 
 .weui-tabbar {
+  max-width:750px;
   display: flex;
   position: fixed !important;
   z-index: 500;

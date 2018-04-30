@@ -1,6 +1,6 @@
 # jobs
 
-> A Vue.js project(仿拉勾移动端)
+> A Vue.js project(仿拉勾移动端的vue项目)
 
 ## Build Setup
 
@@ -28,4 +28,6 @@ npm test
 ```
 
 demo:http://q1.890m.com/#/jobs/dd
+
+个人博客地址：http://ye63.com 欢迎交流
 
