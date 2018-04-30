@@ -36,7 +36,10 @@ export default {
 
 <style lang="less">
 @import '~vux/src/styles/reset.less';
-
+html{
+  max-width: 750px;
+  margin: auto;
+}
 body {
   background-color: #fbf9fe;
 }
@@ -45,7 +48,7 @@ header{
     line-height: 45px;
     background-color: #00b38a;
     color: #fff;
-    font-size: .36rem;
+    font-size: .3rem;
     text-align: center;
     position: relative;
 }
